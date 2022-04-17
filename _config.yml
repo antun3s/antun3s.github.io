@@ -2,8 +2,8 @@
 remote_theme: epidrome/cover-card@main
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'Bruno Antunes'
+description: 'Sou um grão de areia no olho do furacão'
 
 # Images
 avatar: 'avatar.jpg'
@@ -12,13 +12,13 @@ favicon: 'favicon.ico'
 
 # Online profiles
 #dribbble: 'mydribbble'
-facebook: 'myfacebook'
-twitter: 'mytwitter'
-#linkedin: 'mylinkedin'
-instagram: 'myinsta'
+facebook: 'Bruno.Antunes.o'
+twitter: '_BrunoAntunes'
+linkedin: 'brunoantuness'
+instagram: 'brunoantuneso'
 #pinterest: 'mypinterest'
-youtube: 'myyoutube'
-github-user: 'mygithub'
+#youtube: 'myyoutube'
+github-user: 'antun3s'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -27,13 +27,13 @@ github-user: 'mygithub'
 #stack-overflow: ''
 #reddit: ''
 #rubygems: ''
-#medium:  ''
-tumblr: 'mytumblr'
-weibo: 'myweibo'
-vk: 'myvk'
-blog_url: 'myblog.blog.com'
-email: 'hello@example.com'
-messenger: 'myfbchat'
+medium:  'brunoantuness'
+#tumblr: 'mytumblr'
+#weibo: 'myweibo'
+#vk: 'myvk'
+blog_url: 'brunoantuness.wordpress.com'
+#email: 'hello@example.com'
+#messenger: 'myfbchat'
 
 social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 
