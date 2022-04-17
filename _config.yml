@@ -16,6 +16,7 @@ facebook: 'Bruno.Antunes.o'
 twitter: '_BrunoAntunes'
 linkedin: 'brunoantuness'
 instagram: 'brunoantuneso'
+keybase: 'antun3s'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
 github-user: 'antun3s'
@@ -35,7 +36,7 @@ blog_url: 'brunoantuness.wordpress.com'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, medium, keybase,blog_url, email]
 
 # Yaml manifest of supported social links
 # Requirements:
