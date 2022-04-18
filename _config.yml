@@ -156,4 +156,4 @@ social-links:
     url-pattern: '__USERNAME__'
     icon-class: far fa-2x fa-envelope-open
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
