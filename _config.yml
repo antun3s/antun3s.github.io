@@ -16,7 +16,7 @@ facebook: 'Bruno.Antunes.o'
 twitter: '_BrunoAntunes'
 linkedin: 'brunoantuness'
 instagram: 'brunoantuneso'
-keybase: 'antun3s'
+#keybase: ''
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
 github-user: 'antun3s'
@@ -28,15 +28,16 @@ github-user: 'antun3s'
 #stack-overflow: ''
 #reddit: ''
 #rubygems: ''
-medium:  'brunoantuness'
+#medium:  ''
 #tumblr: 'mytumblr'
 #weibo: 'myweibo'
 #vk: 'myvk'
 blog_url: 'brunoantuness.wordpress.com'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
+telegram: 'Antun3s'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, medium, keybase,blog_url, email]
+social-links-order: [github-user, linkedin, facebook, instagram, twitter, tumblr, pinterest, youtube, vk, weibo, dribbble, messenger, medium, keybase,blog_url, email]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -149,7 +150,7 @@ social-links:
 
   - name: blog_url
     url-pattern: '__USERNAME__'
-    icon-class: fas fa-2x fa-blog
+    icon-class: fa-brands fa-2x fa-wordpress
 
   - name: email
     url-scheme: 'mailto:'
